@@ -1,0 +1,3 @@
+/home/glauton/Pessoas/Glauton/signal_and_fork/build/CMakeFiles/rebuild_cache.dir
+/home/glauton/Pessoas/Glauton/signal_and_fork/build/CMakeFiles/edit_cache.dir
+/home/glauton/Pessoas/Glauton/signal_and_fork/build/CMakeFiles/activity_1.dir

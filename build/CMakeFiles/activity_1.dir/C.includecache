@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/glauton/Pessoas/Glauton/signal_and_fork/activity_1.c
+signal.h
+-
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+unistd.h
+-
+string.h
+-
+sys/inotify.h
+-
+fcntl.h
+-
+
